@@ -1,0 +1,9 @@
+#ifndef CONSTANTS
+#define CONSTANTS
+#define DATA_DIR_NAME_LENGTH 128
+#define MAX_FILENAME_LENGTH 256
+#define MAX_NEIGHBOURS 500
+#define MAX_PATH_PARTS 10
+#define MAX_PATH_LENGTH 1000
+#define ROOT_NAME "/"
+#endif
